@@ -12,5 +12,4 @@ pip install selenium
 
 
 ## run test script
-open test_cases.py file
-run test
+open test_cases.py file and run test
